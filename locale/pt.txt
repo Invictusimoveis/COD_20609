@@ -1,0 +1,19 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_A93C6305_A890_FD5A_41E2_4AD849D3D782.label = 1
+panorama_A93C6A8B_A890_CF6E_41CE_DA1412D9C9CE.label = 2
+panorama_A93C71E5_A890_DCDB_41D4_69ABCEC59354.label = 3
+panorama_A93C79C6_A890_CCD9_41D9_5A9D1CCA6209.label = 4
+panorama_A93C8121_A890_3D5B_41DD_6B10430165ED.label = 5
+panorama_A93C887E_A890_4BA9_41D9_426DD4E11CB9.label = 6
+panorama_A93C8FC7_A890_44E7_41E2_A22D9DBE47F0.label = 7
+
+## Tour
+
+### Description
+
+### Title
+tour.name = COD_20609
